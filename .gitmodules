@@ -1,0 +1,12 @@
+[submodule "components/tgoskits"]
+	path = components/tgoskits
+	url = https://github.com/Ivans-11/tgoskits.git
+	branch = axvisor-core
+[submodule "hosts/asterinas"]
+	path = hosts/asterinas
+	url = https://github.com/Ivans-11/asterinas.git
+	branch = axvisor-host
+[submodule "hosts/linux"]
+	path = hosts/linux
+	url = https://github.com/Ivans-11/linux.git
+	branch = freehypervisor
